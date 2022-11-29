@@ -8,11 +8,12 @@
         height: 100%;
         display: flex;
         transition: all 1s ease;
+        background-color:  gray;
 
         img{
             width: 100vw;
             height: 100%;
-            object-fit: fill;
+            object-fit: cover;
         }
     }
     .icons{
